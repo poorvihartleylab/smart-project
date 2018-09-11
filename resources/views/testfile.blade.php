@@ -4,6 +4,6 @@
 	<title></title>
 </head>
 <body>
-	<h1>Testing Form file</h1>
+	<h1>Testing Form only</h1>
 </body>
 </html>
