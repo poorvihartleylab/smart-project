@@ -22,3 +22,7 @@ Route::get('/user-test', function () {
 Route::get('/user-regis', function () {
     return view('testfile');
 });
+
+Route::get('/new-feature', function(){
+	return view('new-feature');
+});
