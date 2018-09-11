@@ -16,5 +16,5 @@ Route::get('/', function () {
 });
 
 Route::get('/user-regis', function () {
-    return view('test');
+    return view('testfile');
 });
