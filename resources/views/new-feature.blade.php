@@ -13,6 +13,12 @@
 			<td><input type="text" name="lname"></td>
 		</tr>
 		<tr>
+			<td><input type="email" name="email"></td>
+		</tr>
+		<tr>
+			<td><input type="text" name="mobile"></td>
+		</tr>
+		<tr>
 			<td><input type="submit" name="Save"></td>
 		</tr>
 	</table>
